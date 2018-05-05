@@ -1,0 +1,20 @@
+*.iml
+.idea/
+
+# OSX
+.DS_Store
+android/.DS_Store
+ios/.DS_Store
+
+build/
+
+# Android
+.gradle
+
+# node.js
+npm-debug.log
+*node_modules/
+
+## Build generated
+build/
+DerivedData/
